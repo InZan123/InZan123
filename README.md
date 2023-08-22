@@ -11,6 +11,7 @@ Languages I know:
 - C#
 - Rust
 - Python
+- Java
 - English
 - Swedish
 
