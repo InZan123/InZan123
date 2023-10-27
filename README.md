@@ -4,14 +4,17 @@ I mostly code for fun but im hoping i can get a job about coding in the future.
 
 My discord is @inzan17
 
-Languages I know:
+Programming Languages I know:
 - Lua
 - Javascript
-- HTML and CSS (not very good at it)
 - C#
 - Rust
 - Python
 - Java
+
+I also know HTML and CSS though I'm not very good at it.
+
+Speaking Languages I know:
 - English
 - Swedish
 
