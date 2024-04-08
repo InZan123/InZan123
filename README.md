@@ -1,6 +1,6 @@
 Hello! Online I am refered to as "Zan".
 
-I mostly code for fun but im hoping i can get a job about coding in the future.
+I mostly code for fun.
 
 My discord is @inzan17
 
